@@ -188,6 +188,9 @@ footer{
   text-align: center;
   background: black;
   height: 50px;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
 }
 
 input {
@@ -211,4 +214,10 @@ textarea {
   border: 0 none;
   width:20%;
 
+}
+
+#fp {
+  position:relative;
+  bottom: 0;
+  width: 100%;
 }
