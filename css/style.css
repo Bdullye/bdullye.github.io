@@ -188,7 +188,7 @@ footer{
   text-align: center;
   background: black;
   height: 50px;
-  position: absolute;
+  position: static;
   bottom: 0;
   width: 100%;
 }
